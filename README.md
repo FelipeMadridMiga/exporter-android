@@ -17,7 +17,7 @@ The Android exporter allows you to **produce production-ready code for all produ
 The exporter will generate a file per style type. Here's an example of the exporter ouput for a single `11 Regular Italic` text style:
 
 ```xml
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="2.0" encoding="utf-8"?>
 <resources>
 
     <style name="_11RegularItalic">
@@ -33,7 +33,7 @@ The exporter will generate a file per style type. Here's an example of the expor
 A corresponding **font/roboto.xml** file will be created:
 
 ```xml
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="2.0" encoding="utf-8"?>
 <font-family xmlns:app="http://schemas.android.com/apk/res-auto">  
 
     <font
