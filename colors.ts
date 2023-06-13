@@ -175,6 +175,7 @@ const semanticSaleSaleColor = "#b7b7b7";
 const colorMe = "#244519";
 const token1 = "#ed2424";
 const token2 = "#ffffff";
+const new = "#5c3434";
 
 export const Colors = {
   /** Logos */
@@ -364,4 +365,5 @@ export const Colors = {
     colorMe,
     token1,
     token2,
+    new,
 }
