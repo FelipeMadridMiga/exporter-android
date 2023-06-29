@@ -176,6 +176,7 @@ const colorMe = "#244519";
 const token1 = "#ed2424";
 const token2 = "#ffffff";
 const new = "#5c3434";
+const token3 = "#785050";
 
 export const Colors = {
   /** Logos */
@@ -366,4 +367,5 @@ export const Colors = {
     token1,
     token2,
     new,
+    token3,
 }
