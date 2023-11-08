@@ -1,6 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
  
+
+    <dimen name="dimension_measure_example">200dp</dimen> 
  
  
  
@@ -9,8 +11,10 @@
  
  
  
- 
- 
+
+    <dimen name="border_radius_radius_1">4dp</dimen>
+    <dimen name="border_radius_radius_2">58dp</dimen>
+    <dimen name="border_radius_radius_3">4dp</dimen> 
  
  
 
