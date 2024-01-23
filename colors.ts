@@ -4,7 +4,7 @@ const tokenWithoutDataSource = "#272a48";
 const felipeBrand = "#3e2893";
 const purpleParty = "#515bb8";
 const newStyle = "#0e2a21";
-const darkBlue = "#9d1d79";
+const darkBlue = "#ff0000";
 const paletteGreenGreen1000 = "#1c4130";
 const paletteGreenGreen900 = "#2d6944";
 const paletteGreenGreen800 = "#3c884d";
@@ -16,7 +16,7 @@ const paletteGreenGreen300 = "#a9e297";
 const paletteGreenGreen200 = "#ccf0c2";
 const paletteGreenGreen100 = "#ddf3d9";
 const paletteGreenGreen0 = "#eef9ec";
-const paletteBlueBlue1100 = "#082036";
+const paletteBlueBlue1100 = "#00213f";
 const paletteBlueBlue1000 = "#18395d";
 const paletteBlueBlue900 = "#245685";
 const paletteBlueBlue800 = "#306ca5";
@@ -177,6 +177,9 @@ const token1 = "#ed2424";
 const token2 = "#ffffff";
 const new = "#5c3434";
 const token3 = "#785050";
+const paletteGreenGreen1100 = "#0e2a21";
+const test = "#ffffff";
+const token4 = "#ffffff";
 
 export const Colors = {
   /** Logos */
@@ -368,4 +371,7 @@ export const Colors = {
     token2,
     new,
     token3,
+    paletteGreenGreen1100,
+    test,
+    token4,
 }
